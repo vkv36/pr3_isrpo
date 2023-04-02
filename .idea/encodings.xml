@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Administrator.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DB.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/database/Restorant.sql" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/main.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/models/Cheque.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/models/Product.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/models/User.py" charset="UTF-8" />
+  </component>
+</project>
